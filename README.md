@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[MERN stack project](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning about **Block chain and trading strategie.**
+- 🌱 I’m currently learning about **Block chain and trading strategies.**
 
 
 - 📫 How to reach me **mohamed.nalouti@esprit.com**
