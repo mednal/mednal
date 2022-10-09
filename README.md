@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F204702745549241158%2F&psig=AOvVaw0CWL4tjjGMe6pfz-1AqgcN&ust=1665430918678000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICEjeTz0_oCFQAAAAAdAAAAABAO" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed </h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Tunisia.</h3>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[MERN stack project](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning about **Block chain and trading strategies.**
+- 🌱 I’m currently learning about **Block chain and trading strategie.**
 
 
 - 📫 How to reach me **mohamed.nalouti@esprit.com**
