@@ -118,10 +118,10 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/mednal">
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=mednal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
-      alt="Mohamed Nalouti's GitHub Activity Graph"
+      alt="Mohamed's GitHub Activity Graph"
     />
   </a>
 </p>
