@@ -1,11 +1,4 @@
-<a href="#">
-  <img
-    width="100%"
-    src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"
-    height="300px"
-    alt="Developer animation"
-  />
-</a>
+
 
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed
@@ -103,50 +96,12 @@
 
 </p>
 
----
-[![Nalouti's GitHub stats](https://github-stats-extended.vercel.app/api?username=mednal)](https://github.com/stats-organization/github-stats-extended)
 
-## 📊 GitHub Stats
-<p align="center">
 
-</p>
 
-<p align="center">
-  <i>
-    Top languages represent the languages used in my public repositories
-    and do not necessarily reflect my overall experience or skill level.
-  </i>
-</p>
 
----
 
-## 🟩 GitHub Contribution Graph
 
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/0e75b6/mednal"
-    alt="Mohamed's GitHub contribution graph (past year)"
-  />
-</p>
-
-<p align="center">
-  <i>Full year of GitHub activity, rendered as a classic contribution calendar.</i>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-  <img
-    src="https://streak-stats.demolab.com/?user=mednal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
-    alt="Mohamed's GitHub Streak"
-  />
-
-</p>
-
----
 
 ## 🤝 Connect With Me
 
