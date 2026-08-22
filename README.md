@@ -1,5 +1,5 @@
 <a href="#">
-  <img width="100%" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" height="300px"/>
+  <img width="100%" src="https://githubusercontent.com" height="300px"/>
 </a>
 
 <h1 align="center">
@@ -84,60 +84,24 @@
 
 <br/>
 
-## 🔥 GitHub Streak
+## 📊 My GitHub Contributions & Streak
 
 <p align="center">
+  <img src="https://verve.ink" alt="Mohamed's Contribution Breakdown" width="400px"/>
   <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com/?user=mednal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
-      alt="Mohamed's GitHub Streak"
-    />
+    <img src="https://streak-stats.demolab.com/?user=mednal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Mohamed's GitHub Streak" />
   </a>
 </p>
 
-## 📊 My GitHub Stats
-
-
 <p align="center">
-  <img
-    src="https://github-contribution-graph.ez4o.com/?username=mednal&last_n_days=365"
-    alt="Mohamed's GitHub contribution graph"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mednal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Mohamed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Mohamed's Top Languages" />
 </p>
 
-## 📈 My GitHub Contributions
+## 🗓️ Yearly Activity Graph
 
 <p align="center">
-  <a href="https://github.com/mednal">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mednal&theme=github-compact&hide_border=true"
-      alt="Mohamed's GitHub Contribution Graph"
-    />
-  </a>
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mednal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Mohamed's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Mohamed's Top Languages"
-  />
-</p>
-
-<br/>
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/mednal">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=mednal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"
-      alt="Mohamed's GitHub Activity Graph"
-    />
-  </a>
+  <img src="https://vercel.app" alt="Mohamed's Yearly Activity Graph" width="100%"/>
 </p>
 
 <br/>
@@ -145,19 +109,15 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/mohamed-nalouti-114209173/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-</a>
-
-<a href="https://www.instagram.com/mohamed_nalouti/?hl=en" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-</a>
-
-<a href="https://www.youtube.com/channel/UCEfHjWnJREHjInVRVLvAEEQ" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/mohamed-nalouti-114209173/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/mohamed_nalouti/?hl=en" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCEfHjWnJREHjInVRVLvAEEQ" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
+  </a>
 </p>
 
 ## 👀 Views and Followers
