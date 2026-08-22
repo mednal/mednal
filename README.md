@@ -96,7 +96,16 @@
 </p>
 
 ## 📊 My GitHub Stats
+## 📈 My GitHub Contributions
 
+<p align="center">
+  <a href="https://github.com/mednal">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=mednal&theme=github-compact&hide_border=true"
+      alt="Mohamed's GitHub Contribution Graph"
+    />
+  </a>
+</p>
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=mednal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
