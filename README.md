@@ -90,7 +90,7 @@
   <a href="https://git.io/streak-stats">
     <img
       src="https://streak-stats.demolab.com/?user=mednal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
-      alt="Mohamed's GitHub streak"
+      alt="Mohamed's GitHub Streak"
     />
   </a>
 </p>
