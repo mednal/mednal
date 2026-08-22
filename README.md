@@ -100,17 +100,13 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=mednal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Mohamed Nalouti's GitHub Stats"
+    alt="Mohamed's GitHub Stats"
   />
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Mohamed Nalouti's Top Languages"
+    alt="Mohamed's Top Languages"
   />
-</p>
-
-<p align="center">
-  <b>Note:</b> Top languages only represent the languages used in my public repositories and do not necessarily reflect my experience or skill level.
 </p>
 
 <br/>
