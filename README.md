@@ -106,18 +106,8 @@
 ---
 
 ## 📊 GitHub Stats
-[![Nalouti's GitHub stats](https://github-stats-extended.vercel.app/api?username=mednal)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mednal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Mohamed's GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mednal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-    alt="Mohamed's Top Languages"
-  />
+[![Nalouti's GitHub stats](https://github-stats-extended.vercel.app/api?username=mednal)](https://github.com/stats-organization/github-stats-extended)
 
 </p>
 
