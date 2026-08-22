@@ -96,6 +96,15 @@
 </p>
 
 ## 📊 My GitHub Stats
+
+
+<p align="center">
+  <img
+    src="https://github-contribution-graph.ez4o.com/?username=mednal&last_n_days=365"
+    alt="Mohamed's GitHub contribution graph"
+  />
+</p>
+
 ## 📈 My GitHub Contributions
 
 <p align="center">
