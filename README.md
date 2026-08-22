@@ -104,10 +104,10 @@
 </p>
 
 ---
+[![Nalouti's GitHub stats](https://github-stats-extended.vercel.app/api?username=mednal)](https://github.com/stats-organization/github-stats-extended)
 
 ## 📊 GitHub Stats
 <p align="center">
-[![Nalouti's GitHub stats](https://github-stats-extended.vercel.app/api?username=mednal)](https://github.com/stats-organization/github-stats-extended)
 
 </p>
 
