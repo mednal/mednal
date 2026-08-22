@@ -5,6 +5,7 @@
 <h1 align="center">
   Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed
 </h1>
+[![GitHub Activity Graph](https://vercel.app)](https://github.com)
 
 <h3 align="center">I'm a passionate Full Stack Developer from Tunisia.</h3>
 
