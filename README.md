@@ -130,15 +130,17 @@
 
 ---
 
-## 🟩 GitHub Contributions
+## 🟩 GitHub Contribution Graph
 
 <p align="center">
-
   <img
-    src="https://github-contribution-graph.ez4o.com/?username=mednal&last_n_days=364"
-    alt="Mohamed's GitHub Contribution Graph"
+    src="https://ghchart.rshah.org/0e75b6/mednal"
+    alt="Mohamed's GitHub contribution graph (past year)"
   />
+</p>
 
+<p align="center">
+  <i>Full year of GitHub activity, rendered as a classic contribution calendar.</i>
 </p>
 
 ---
