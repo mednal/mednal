@@ -30,7 +30,9 @@
 
 ---
 <div align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mednal&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=mednal&langs_count=4)
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=mednal&langs_count=4">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mednal&langs_count=4" alt="GitHub Stats" />
+  </a>
 </div>
 ## 🚀 Languages & Tools
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4)
