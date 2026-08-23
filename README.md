@@ -29,8 +29,8 @@
 - 📫 Reach me at **mohamed.nalouti@esprit.com**
 
 ---
-<h3 align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mednal&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=mednal&langs_count=4)</h3>
+<p align="center">
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mednal&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=mednal&langs_count=4)</p3>
 ## 🚀 Languages & Tools
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4)
 
